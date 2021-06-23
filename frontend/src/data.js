@@ -9,6 +9,7 @@
             rating: 4.5,
             numReviews: 10,
             description: 'high quality product',
+            countInStock: 5,
         },
         {
             _id: '2',
@@ -19,6 +20,7 @@
             rating: 4,
             numReviews: 10,
             description: 'high quality product',
+            countInStock: 0,
         },
         {
             _id: '3',
@@ -29,6 +31,7 @@
             rating: 4,
             numReviews: 120,
             description: 'high quality product',
+            countInStock: 5,
         },
         {
             _id: '4',
@@ -39,6 +42,7 @@
             rating: 4.5,
             numReviews: 10,
             description: 'high quality product',
+            countInStock: 5,
         },
         {
             _id: '5',
@@ -59,6 +63,7 @@
             rating: 4.5,
             numReviews: 102,
             description: 'high quality product',
+            countInStock: 5,
         },
   
     ]
