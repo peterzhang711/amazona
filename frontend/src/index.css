@@ -37,6 +37,7 @@ footer {
   grid-area: c;
   background-color: #203040;
   color: #ffffff;
+  height: 5rem;
 }
 /* Common */
 h1 {
