@@ -13,7 +13,7 @@ function App() {
               Amazona
             </a>
           </div>
-          <div>
+          <div> 
             <a href="/cart">Cart</a>
             <a href="/signin">Sign In</a>
           </div>
